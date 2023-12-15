@@ -15,6 +15,7 @@ Approach - The following variables are chosen for the study-
 10. Federal Funds (https://fred.stlouisfed.org/series/FEDFUNDS)
 11. Housing subsidies (https://fred.stlouisfed.org/tags/series?t=bea%3Bhousing%3Bsubsidies)
 12. Number of Households (https://fred.stlouisfed.org/series/TTLHH)
+    
 As a proxy to the home prices, S&P CASE-SHILLER Index is used.
 
 All data is downloaded from [https://fred.stlouisfed.org/].
