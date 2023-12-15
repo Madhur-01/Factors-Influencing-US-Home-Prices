@@ -3,18 +3,18 @@ Task - Using publically available data for the national factors that impact supp
 
 Approach - The following variables are chosen for the study-
 
-Unemployment Rate
-Per Capita GDP
-Median Household Income
-Construction Prices
-CPI
-Interest Rates
-Number of new houses supplied
-Working Population
-Urban Population
-Percentage of population above 65
-Housing subsidies
-Number of Households
+1. Unemployment Rate
+2. Per Capita GDP
+3. Median Household Income
+4. Construction Prices
+5. CPI
+6. Interest Rates
+7. Number of new houses supplied
+8. Working Population
+9. Urban Population
+10. Percentage of population above 65
+11. Housing subsidies
+12. Number of Households
 As a proxy to the home prices, S&P CASE-SHILLER Index is used.
 
 All data is downloaded from [https://fred.stlouisfed.org/].
