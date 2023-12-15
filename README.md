@@ -34,3 +34,12 @@ https://www.jstor.org/stable/29783816
 Research Papers refered -
 
 https://www.atlantis-press.com/article/25841966.pdf
+
+A few variables that could have been studied are below.
+
+1. Net-immigration (It is supposed to have a positive impact. No suitable data could be found)
+2. Marriage Rate (People tend to buy homes after they get married. So, it might have some effect. No data could be found)
+3. Average house size (The data was available only for the years after 2015. Though it is expected that an increase in the average house size would increase prices, it is found that the average home size has been 4. consistently decreasing although the prica has been increasing)
+5. Land availability (Less land, higher prices. Perhaps this is why the prices has been rising even though the average house size has been decreasing. No relevant data could be found)
+6. Tax Rate (Too many brackets (7) and could not analyse due to time)
+7. Number of active listings (Data prior to 2017 was not found)
