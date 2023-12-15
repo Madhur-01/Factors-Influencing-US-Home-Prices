@@ -37,8 +37,11 @@ I analyzed the correlation among variables using a correlation matrix and visual
 
 # Model Performance
 The dataset is scaled, and training and validation sets are divided.
+
 •	R-squared for the validation set in the case of Random Forest is 0.995
+
 •	R-squared for the validation set in the case of XGBoost is 0.985
+
 •	R-squared for the validation set in the case of Linear Regression is 0.909
 ![image](https://github.com/Madhur-01/Factors-Influencing-US-Home-Prices/assets/108746195/0889d106-f984-4735-bff7-a4f54fcee091)
 
