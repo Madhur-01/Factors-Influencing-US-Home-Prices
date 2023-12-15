@@ -1,7 +1,12 @@
-# Factors-Influencing-US-Home-Prices
+# Factors-Influencing-US-House-Prices (Overview)
 Task - Using publically available data for the national factors that impact supply and demand of homes in US, build a model to study the effect of these variables on home prices.
 
-Approach - The following variables are chosen for the study-
+This project aims to predict US house prices based on various economic indicators and demographic factors. We aim to explore the relationships between these variables and the Case-Shiller Home Price Index (CSUSHPISA). The analysis includes data preprocessing, correlation analysis, feature selection, and the application of linear regression, Random Forest, and XGBoost models.
+
+*Technologies Used*: Python, Numpy, Pandas, sk-learn, Linear Regression, Random Forest, XGBoost
+
+# Dataset
+The following variables are chosen for the study-
 
 1. Unemployment Rate (https://fred.stlouisfed.org/series/UNRATE)
 2. Per Capita GDP (https://fred.stlouisfed.org/series/A939RX0Q048SBEA)
@@ -20,9 +25,27 @@ As a proxy to the home prices, S&P CASE-SHILLER Index is used.
 
 All data is downloaded from [https://fred.stlouisfed.org/].
 
-*Technologies Used*: Python, Numpy, Pandas, sk-learn, Linear Regression, Random Forest, XGBoost
 
-Articles refered -
+# Correlation Analysis
+I analyzed the correlation among variables using a correlation matrix and visualized it with a heatmap. Key observations include:
+•	A negative correlation between the unemployment rate and home prices.
+•	The unexpectedly low correlation for the number of new houses.
+•	The impact of the Great Recession on various plots.
+•	A positive correlation between the per_capita_GDP and home prices.
+
+![image](https://github.com/Madhur-01/Factors-Influencing-US-Home-Prices/assets/108746195/44627cd6-5316-4ffd-ba5f-e22f180edab7)
+
+# Model Performance
+The dataset is scaled, and training and validation sets are divided.
+
+•	R-squared for the validation set in the case of Random Forest is 0.995
+
+•	R-squared for the validation set in the case of XGBoost is 0.985
+
+•	R-squared for the validation set in the case of Linear Regression is 0.909
+![image](https://github.com/Madhur-01/Factors-Influencing-US-Home-Prices/assets/108746195/0889d106-f984-4735-bff7-a4f54fcee091)
+
+# Articles refered - 
 
 https://www.forbes.com/siteS/forbesbizcouncil/2021/10/25/us-housing-supply-obstacles-and-opportunities/?sh=49dfdc1740dc
 
