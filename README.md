@@ -19,7 +19,7 @@ As a proxy to the home prices, S&P CASE-SHILLER Index is used.
 
 All data is downloaded from [https://fred.stlouisfed.org/].
 
-Technologies Used: Python, Numpy, Pandas, sk-learn, Linear Regression, Random Forest, XGBoost
+*Technologies Used*: Python, Numpy, Pandas, sk-learn, Linear Regression, Random Forest, XGBoost
 
 Articles refered -
 
