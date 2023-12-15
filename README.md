@@ -3,18 +3,18 @@ Task - Using publically available data for the national factors that impact supp
 
 Approach - The following variables are chosen for the study-
 
-1. Unemployment Rate
-2. Per Capita GDP
-3. Median Household Income
-4. Construction Prices
-5. CPI
-6. Interest Rates
-7. Number of new houses supplied
-8. Working Population
-9. Urban Population
-10. Percentage of population above 65
-11. Housing subsidies
-12. Number of Households
+1. Unemployment Rate (https://fred.stlouisfed.org/series/UNRATE)
+2. Per Capita GDP (https://fred.stlouisfed.org/series/A939RX0Q048SBEA)
+3. Median Household Income (https://fred.stlouisfed.org/series/MEHOINUSA672N)
+4. Construction Prices  (https://fred.stlouisfed.org/tags/series?t=construction%3Bprice+index)
+5. CPI  (https://fred.stlouisfed.org/tags/series?t=construction%3Bprice+index)
+6. Interest Rates (https://fred.stlouisfed.org/categories/22)
+7. Number of new houses supplied (https://fred.stlouisfed.org/series/MSACSR)
+8. Working Population  (https://fred.stlouisfed.org/series/LFWA64TTUSM647S)
+9. Urban Population   (https://fred.stlouisfed.org/tags/series?t=annual%3Bpopulation%3Busa)
+10. Federal Funds (https://fred.stlouisfed.org/series/FEDFUNDS)
+11. Housing subsidies (https://fred.stlouisfed.org/tags/series?t=bea%3Bhousing%3Bsubsidies)
+12. Number of Households (https://fred.stlouisfed.org/series/TTLHH)
 As a proxy to the home prices, S&P CASE-SHILLER Index is used.
 
 All data is downloaded from [https://fred.stlouisfed.org/].
